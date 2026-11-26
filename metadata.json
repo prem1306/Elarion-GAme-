@@ -1,0 +1,6 @@
+{
+  "name": "Aincendra: Elarion",
+  "description": "Open-world mana-and-tech medieval fantasy RPG set in Elarion, featuring thermal-aether magic, runesmith crafting, and branching quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
